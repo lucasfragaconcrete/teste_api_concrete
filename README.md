@@ -6,7 +6,9 @@ _Exercício para testar uma API (https://pokeapi.co/) apenas com o verbo **GET**
 _Testes na camada de serviço:
 
 _Cucumber
+
 _HTTParty
+
 _Rspec
 
 
