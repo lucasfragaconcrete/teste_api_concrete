@@ -1,17 +1,12 @@
 # APRENDENDO TESTES EM API
 
-_exercício para testar uma API (https://pokeapi.co/) apenas com o verbo **GET**.
-
-## [frameworks]
-_testes na camada de serviço:
-
-_Exercício para testar uma API.
-
 ##### [objetivo]
 
 _aprender o verbo **GET**.
 
 _ambiente: *https://pokeapi.co/*
+
+_exercício para testar uma API (https://pokeapi.co/) apenas com o verbo **GET**.
 
 ## [frameworks]
 _cucumber
@@ -40,6 +35,7 @@ _para rodar os teste => Clonar o projeto e dar um bundle install na raíz.
 
 _através do terminal utilizar o comando: cucumber.
 
-#### [contato/dúvidas]
+#### [contato]
 
 lucass.fragaa@gmail.com
+lucas.fraga@concrete.com.br
